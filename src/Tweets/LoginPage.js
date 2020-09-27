@@ -13,7 +13,6 @@ const LoginPage = () => {
 
 		    {displayFirst==false?
 		    	<div style={{ width: "100%", height: "100%", position: "fixed",backgroundColor: "cadetblue"}}  >
-
 				<div style={{ position: "absolute", top: "20%",  width: "100%",  textAlign: "center", fontSize: "30px"}} >
 				Twitter Top Link App</div>
 		    	<div  style={{ top: "50%", left: "40%", position: "fixed", display: "grid", width: "300px", height: "100px"}}   >
